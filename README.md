@@ -245,13 +245,4 @@ I'm always interested in learning, building, and connecting with other developer
 <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=2500&pause=800&color=58A6FF&center=true&vCenter=true&width=700&lines=%F0%9F%92%AD+Learn+%E2%80%A2+Practice+%E2%80%A2+Build+%E2%80%A2+Debug+%E2%80%A2+Improve;Keep+Learning+%E2%80%A2+Keep+Building+%E2%80%A2+Keep+Improving+%F0%9F%9A%80;Code+%E2%80%A2+Create+%E2%80%A2+Repeat+%F0%9F%94%A5" alt="Typing Animation"/>
 
 <br/><br/>
-
-**Thanks for visiting my profile! 🚀**
-
-<br/>
-
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:7c3aed,50:2563eb,100:0f172a&height=100&section=footer"/>
-
-</div>
-
 ---
