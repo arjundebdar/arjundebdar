@@ -245,12 +245,4 @@ I'm always interested in learning, building, and connecting with other developer
 </a>
 
 <br/><br/>
-
-**Thanks for visiting my profile! 🚀**
-
-<br/>
-
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:7c3aed,50:2563eb,100:0f172a&height=100&section=footer"/>
-
-</div>
 ---
