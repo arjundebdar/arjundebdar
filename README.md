@@ -38,23 +38,49 @@ Building modern and responsive web applications with a focus on clean code, usab
 
 ## 🛠️ Tech Stack
 
-### Frontend
+## 🛠️ Tech Stack
 
-<p>
-  <img src="https://skillicons.dev/icons?i=html,css,js,ts,react,nextjs,tailwind" />
+<p align="center">
+
+<a href="https://nextjs.org/" title="Next.js">
+  <img src="https://skillicons.dev/icons?i=nextjs" width="50" />
+</a>
+<a href="https://react.dev/" title="React.js">
+  <img src="https://skillicons.dev/icons?i=react" width="50" />
+</a>
+<a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" title="JavaScript">
+  <img src="https://skillicons.dev/icons?i=js" width="50" />
+</a>
+<a href="https://www.typescriptlang.org/" title="TypeScript">
+  <img src="https://skillicons.dev/icons?i=ts" width="50" />
+</a>
+<a href="https://developer.mozilla.org/en-US/docs/Web/HTML" title="HTML5">
+  <img src="https://skillicons.dev/icons?i=html" width="50" />
+</a>
+<a href="https://developer.mozilla.org/en-US/docs/Web/CSS" title="CSS3">
+  <img src="https://skillicons.dev/icons?i=css" width="50" />
+</a>
+<a href="https://tailwindcss.com/" title="Tailwind CSS">
+  <img src="https://skillicons.dev/icons?i=tailwind" width="50" />
+</a>
+<a href="https://nodejs.org/" title="Node.js">
+  <img src="https://skillicons.dev/icons?i=nodejs" width="50" />
+</a>
+<a href="https://www.mongodb.com/" title="MongoDB">
+  <img src="https://skillicons.dev/icons?i=mongodb" width="50" />
+</a>
+<a href="https://git-scm.com/" title="Git">
+  <img src="https://skillicons.dev/icons?i=git" width="50" />
+</a>
+<a href="https://github.com/" title="GitHub">
+  <img src="https://skillicons.dev/icons?i=github" width="50" />
+</a>
+<a href="https://code.visualstudio.com/" title="VS Code">
+  <img src="https://skillicons.dev/icons?i=vscode" width="50" />
+</a>
+
 </p>
 
-### Backend & Database
-
-<p>
-  <img src="https://skillicons.dev/icons?i=nodejs,mongodb" />
-</p>
-
-### Tools
-
-<p>
-  <img src="https://skillicons.dev/icons?i=git,github,vscode,npm,vercel" />
-</p>
 
 ---
 
