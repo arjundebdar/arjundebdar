@@ -1,5 +1,11 @@
 <div align="center">
 
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f172a,100:2563eb&height=200&section=header&text=Arjun%20Deb%20Nath&fontSize=45&fontColor=ffffff&animation=fadeIn&fontAlignY=35&desc=Web%20Developer%20%7C%20Next.js%20Developer&descAlignY=55&descSize=18" width="100%"/>
+
+</div>
+
+<div align="center">
+
 # 👋 Hi, I'm Arjun Deb Nath
 
 ### 💻 Web Developer | Next.js Developer | JavaScript Enthusiast
