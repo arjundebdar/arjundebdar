@@ -1,6 +1,6 @@
-<div align="center">
+
 # 👋 Hi, I'm Arjun Deb Nath
-</div>
+
 ### 💻 Web Developer | Next.js Learner | JavaScript Enthusiast
 
 I'm a passionate web developer focused on building modern, responsive, and user-friendly web applications.
