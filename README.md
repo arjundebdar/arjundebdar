@@ -38,49 +38,75 @@ Building modern and responsive web applications with a focus on clean code, usab
 
 ## 🛠️ Tech Stack
 
-## 🛠️ Tech Stack
+<div align="center">
 
-<p align="center">
+### 💻 Frontend
 
 <a href="https://nextjs.org/" title="Next.js">
-  <img src="https://skillicons.dev/icons?i=nextjs" width="50" />
+<img src="https://skillicons.dev/icons?i=nextjs" width="55" />
 </a>
+&nbsp;&nbsp;
 <a href="https://react.dev/" title="React.js">
-  <img src="https://skillicons.dev/icons?i=react" width="50" />
+<img src="https://skillicons.dev/icons?i=react" width="55" />
 </a>
-<a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" title="JavaScript">
-  <img src="https://skillicons.dev/icons?i=js" width="50" />
+&nbsp;&nbsp;
+<a href="https://www.javascript.com/" title="JavaScript">
+<img src="https://skillicons.dev/icons?i=js" width="55" />
 </a>
+&nbsp;&nbsp;
 <a href="https://www.typescriptlang.org/" title="TypeScript">
-  <img src="https://skillicons.dev/icons?i=ts" width="50" />
+<img src="https://skillicons.dev/icons?i=ts" width="55" />
 </a>
+&nbsp;&nbsp;
 <a href="https://developer.mozilla.org/en-US/docs/Web/HTML" title="HTML5">
-  <img src="https://skillicons.dev/icons?i=html" width="50" />
+<img src="https://skillicons.dev/icons?i=html" width="55" />
 </a>
+&nbsp;&nbsp;
 <a href="https://developer.mozilla.org/en-US/docs/Web/CSS" title="CSS3">
-  <img src="https://skillicons.dev/icons?i=css" width="50" />
+<img src="https://skillicons.dev/icons?i=css" width="55" />
 </a>
+
+<br/>
+
+### 🎨 Styling & UI
+
 <a href="https://tailwindcss.com/" title="Tailwind CSS">
-  <img src="https://skillicons.dev/icons?i=tailwind" width="50" />
+<img src="https://skillicons.dev/icons?i=tailwind" width="55" />
 </a>
+&nbsp;&nbsp;
+<a href="https://daisyui.com/" title="daisyUI">
+<img src="https://skillicons.dev/icons?i=daisyui" width="55" />
+</a>
+
+<br/>
+
+### ⚙️ Backend & Database
+
 <a href="https://nodejs.org/" title="Node.js">
-  <img src="https://skillicons.dev/icons?i=nodejs" width="50" />
+<img src="https://skillicons.dev/icons?i=nodejs" width="55" />
 </a>
+&nbsp;&nbsp;
 <a href="https://www.mongodb.com/" title="MongoDB">
-  <img src="https://skillicons.dev/icons?i=mongodb" width="50" />
+<img src="https://skillicons.dev/icons?i=mongodb" width="55" />
 </a>
+
+<br/>
+
+### 🔧 Tools
+
 <a href="https://git-scm.com/" title="Git">
-  <img src="https://skillicons.dev/icons?i=git" width="50" />
+<img src="https://skillicons.dev/icons?i=git" width="55" />
 </a>
+&nbsp;&nbsp;
 <a href="https://github.com/" title="GitHub">
-  <img src="https://skillicons.dev/icons?i=github" width="50" />
+<img src="https://skillicons.dev/icons?i=GitHub" width="55" />
 </a>
+&nbsp;&nbsp;
 <a href="https://code.visualstudio.com/" title="VS Code">
-  <img src="https://skillicons.dev/icons?i=vscode" width="50" />
+<img src="https://skillicons.dev/icons?i=vscode" width="55" />
 </a>
 
-</p>
-
+</div>
 
 ---
 
