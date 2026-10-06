@@ -1,22 +1,32 @@
+<div align="center">
 
 # 👋 Hi, I'm Arjun Deb Nath
 
-### 💻 Web Developer | Next.js Learner | JavaScript Enthusiast
+### 💻 Web Developer | Next.js Developer | JavaScript Enthusiast
 
-I'm a passionate web developer focused on building modern, responsive, and user-friendly web applications.
+Building modern and responsive web applications with a focus on clean code, usability, and real-world problem solving.
 
-I enjoy learning new technologies, solving programming problems, and turning ideas into real-world projects.
+<p>
+  <a href="https://github.com/YOUR_USERNAME">
+    <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
+  </a>
+  <a href="https://www.linkedin.com/in/YOUR_LINKEDIN_USERNAME/">
+    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
+  </a>
+</p>
+
+</div>
 
 ---
 
-## 🚀 About Me
+## 👨‍💻 About Me
 
-* 🔭 Currently working with **Next.js**
-* 🌱 Improving my skills in **Full-Stack Web Development**
-* 💡 Interested in **Modern Web Applications & APIs**
-* 🧠 Practicing **JavaScript problem solving**
-* 🎯 Goal: Become a skilled **professional web developer**
-* ⚡ I believe in learning by building and practicing
+* 💻 I'm a **Web Developer** focused on modern JavaScript technologies.
+* 🚀 Currently working with **Next.js** and building real-world applications.
+* 🧠 I enjoy solving programming problems and improving my problem-solving skills.
+* 🔧 Interested in building scalable and user-friendly web applications.
+* 📚 Always learning, practicing, and improving my development skills.
+* 🎯 My goal is to become a strong **Full-Stack Web Developer**.
 
 ---
 
@@ -31,10 +41,10 @@ I enjoy learning new technologies, solving programming problems, and turning ide
 ### Backend & Database
 
 <p>
-  <img src="https://skillicons.dev/icons?i=nodejs,mongodb,mysql" />
+  <img src="https://skillicons.dev/icons?i=nodejs,mongodb" />
 </p>
 
-### Tools & Technologies
+### Tools
 
 <p>
   <img src="https://skillicons.dev/icons?i=git,github,vscode,npm,vercel" />
@@ -42,109 +52,132 @@ I enjoy learning new technologies, solving programming problems, and turning ide
 
 ---
 
-## 📚 Currently Learning
+## 🚀 What I Build
 
-```text
-Next.js
-├── App Router
-├── Routing & Navigation
-├── Server & Client Components
-├── Data Fetching
-├── Authentication
-├── APIs
-└── Full-Stack Development
-```
+I focus on building:
 
-I'm also working on improving my:
-
-* JavaScript fundamentals
-* Problem-solving skills
-* API integration
-* Authentication & authorization
-* Database integration
-* Real-world project development
+* 🌐 Modern web applications
+* 📱 Responsive user interfaces
+* 🔌 API-integrated applications
+* 🔐 Authentication systems
+* 🗄️ Database-driven applications
+* ⚡ Full-stack applications with Next.js
 
 ---
 
-## 💻 Featured Projects
+## 📚 Currently Learning
+
+### Next.js
+
+I'm currently deepening my knowledge of:
+
+* App Router
+* Routing & Dynamic Routes
+* Server & Client Components
+* Data Fetching
+* Caching & Revalidation
+* Authentication
+* API Routes
+* Database Integration
+* Full-Stack Application Architecture
+
+---
+
+## ⭐ Featured Projects
 
 ### 🏋️ FitLog
 
-A workout library and workout planning application built with Next.js.
+A workout library and workout planning application.
 
-**Tech:** Next.js · JavaScript · Tailwind CSS · API · Context API
-
----
-
-### 🔐 Authentication Practice
-
-A full-stack authentication practice project using Next.js, Better Auth, and MongoDB.
-
-**Tech:** Next.js · Better Auth · MongoDB · JavaScript
+**Built with:** Next.js · JavaScript · Tailwind CSS · API
 
 ---
 
 ### 📰 News Application
 
-A modern news application with dynamic routes and API-based data fetching.
+A dynamic news application with API integration and dynamic routing.
 
-**Tech:** Next.js · JavaScript · API · Dynamic Routing
-
----
-
-## 📊 GitHub Stats
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=tokyonight&hide_border=true" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=YOUR_USERNAME&theme=tokyonight&hide_border=true" />
-</p>
+**Built with:** Next.js · JavaScript · API
 
 ---
 
-## 📈 Most Used Languages
+### 🔐 Authentication System
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=compact&theme=tokyonight&hide_border=true" />
-</p>
+A full-stack authentication practice project using Better Auth and MongoDB.
+
+**Built with:** Next.js · Better Auth · MongoDB · JavaScript
 
 ---
 
-## 🎯 2026 Goals
+## 🧠 Problem Solving
 
-* [x] Learn HTML & CSS
-* [x] Learn JavaScript fundamentals
-* [x] Learn TypeScript fundamentals
-* [x] Learn React fundamentals
-* [x] Learn Next.js fundamentals
-* [ ] Build more real-world applications
-* [ ] Improve problem-solving skills
-* [ ] Master authentication & authorization
-* [ ] Strengthen backend development
-* [ ] Build and deploy production-ready projects
-* [ ] Become a professional full-stack web developer
+I regularly practice JavaScript problems to improve my:
+
+* Logical thinking
+* Algorithmic thinking
+* Array & Object manipulation
+* String manipulation
+* Data structures
+* Debugging skills
+* Real-world problem solving
+
+---
+
+## 🎯 My Development Journey
+
+```text
+HTML
+  ↓
+CSS
+  ↓
+JavaScript
+  ↓
+TypeScript
+  ↓
+React
+  ↓
+Next.js
+  ↓
+Full-Stack Development
+  ↓
+Real-World Projects
+```
+
+---
+
+## 🏆 Goals
+
+* 🚀 Build production-ready web applications
+* 🧠 Become stronger at problem solving
+* 🔐 Master authentication and authorization
+* 🗄️ Improve backend & database skills
+* 🌍 Deploy and maintain real-world applications
+* 💼 Become a professional Full-Stack Web Developer
 
 ---
 
 ## 🤝 Let's Connect
 
-<p>
-  <a href="https://github.com/YOUR_USERNAME">
-    <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
-  </a>
-  <a href="https://www.linkedin.com/in/YOUR_LINKEDIN_USERNAME/">
-    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
-  </a>
-</p>
+<div align="center">
+
+I'm always interested in learning, building, and connecting with other developers.
+
+<a href="https://github.com/YOUR_USERNAME">
+  <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
+</a>
+
+<a href="https://www.linkedin.com/in/YOUR_LINKEDIN_USERNAME/">
+  <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
+</a>
+
+</div>
 
 ---
 
-### 💭 Developer Mindset
+<div align="center">
 
-> **Learn → Practice → Build → Break → Debug → Improve → Repeat**
+### 💭 Learn • Practice • Build • Debug • Improve
 
-Thanks for visiting my profile! 🚀
+**Thanks for visiting my profile! 🚀**
 
-⭐ Feel free to explore my repositories and projects.
+</div>
